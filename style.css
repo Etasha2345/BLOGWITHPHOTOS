@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #ff1c49;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.section-style {
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+
+}
